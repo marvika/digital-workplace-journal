@@ -1,6 +1,4 @@
-# Author: Marius Vika
 # Version: 1.0
-# Date: 06.05.2024
  
 <# 
 Description:
